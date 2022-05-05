@@ -5,7 +5,7 @@ int main()
 {
 	//Encryption
 	string text;
-
+	int numkey=0;
 	
 	cout << "Enter a plaintext: ";
 	getline(cin , text);
